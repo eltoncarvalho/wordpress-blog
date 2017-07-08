@@ -2,7 +2,7 @@
 
 **Orgulhosamente desenvolvodo com WordPress**
 
-Sistema Desenvolvido como forma de aperfeiçoamento referentes ao desenvolvimento de sistemas utilizando o gerenciador de arquivos WordPress. Para isso foi utilizado o tema padrão **TwentySixteen** do WordPress, e o mesmo foi customizado baseado no sistema da [Tableless](http://tableless.com.br) o qual na sem sombra de dúvida opnião é uma das maiores paginás de assuntos relacionados a desenvolvimento do pais.
+Sistema Desenvolvido como forma de aperfeiçoamento referentes ao desenvolvimento de sistemas utilizando o gerenciador de arquivos WordPress. 
 
 Se você quer contribuir, simplesmente clone o projeto e submeta as suas mudanças. Alguns detalhes seguem abaixo:
 
@@ -13,11 +13,11 @@ Se você quer contribuir, simplesmente clone o projeto e submeta as suas mudanç
 
 O site é baseado em **WordPress**. e o qual foi costomizado. Por isso, basta clonar o projeto.
 
-O link base do site no Banco é [http://localhost/eltoncarvalho/](http://localhost/eltoncarvalho/). para fazer alterações e ter acesso ao sistema é necessário que seja feita algumas alerações, veja com fazer:
+O link base do site no Banco é [http://localhost/blog/](http://localhost/blog/). para fazer alterações e ter acesso ao sistema é necessário que seja feita algumas alerações, veja com fazer:
 
 **Desconpactar o arquivo na pasta raiz;**
 
-**Import o banco de dados que esta na raiz do tema com o nome [eltoncarvalho.sql](http://localhost/eltoncarvalho/) import este arquivo para o seu banco de dados MySQL;**
+**Import o banco de dados que esta na raiz do tema com o nome [blog.sql](http://localhost/blog/) import este arquivo para o seu banco de dados MySQL;**
 
 Abrir o arquivo **wp-config.php** e **wp-config-sample.php/**
 
